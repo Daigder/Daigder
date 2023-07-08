@@ -20,7 +20,7 @@
 <div align="center">
   <h3 align="center">Minhas redes sociais:</h3>
   <a href="https://twitter.com/daigder" target="_blank"><img src="https://img.shields.io/badge/twitter-0000FF?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/murillo.daigder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/murillodaigder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:murillo-d@live.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
