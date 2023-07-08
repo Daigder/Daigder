@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hey,+meu+name+é+Murillo+Daigder;Estou+cursando+engenharia+de+software;BEM+VINDO+AO+MEU+PERFIL!+:%29)](https://git.io/typing-svg)
 
-
-<h1 align="center">Hey👋, sou Murillo Daigder</h1>
-<h3 align="center">Estou cursando engenharia de software</h3>
-
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Daigder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
