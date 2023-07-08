@@ -2,6 +2,8 @@
 <h1 align="center">Hey👋, sou Murillo Daigder</h1>
 <h3 align="center">Estou cursando engenharia de software</h3>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Daigder&bg_color=0c090b&color=9e4c98&line=4e0949&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Daigder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
