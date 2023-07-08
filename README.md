@@ -4,15 +4,18 @@
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Daigder&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daigder&layout=compact&langs_count=16&theme=midnight-purple"/>
 </div>
 <br>
 
-<h3 align="left">Conecte-se comigo:</h3 >
-<p align="left">
-<a href="https://twitter.com/daigder" target="blank"><img align="center" src="https://raw.githubusercontent.com/ rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daigder" height="30" width="40" /></a> <a href=
-" https://fb.com/murillo daigder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="murillo daigder" height="30" width="40" /></a>
-<a href="https://instagram.com/murillodaigder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/instagram.svg" alt="murillodaigder" height="30" width="40" /></a>
-<a href="https://discord.gg/Daigder #1914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord .svg" alt="Daigder#1914" height="30" width="40" /></a>
-</p>
+<div  align="center"> 
+  <div style="display: inline_block"><br>
+    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <h1 align="center">linguagens que aprendi até o momento</h1>
+    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+   </div>
+
+   ![Snake animation](https://github.com/Daigder/Daigder/blob/output/github-contribution-grid-snake.svg)
+  
