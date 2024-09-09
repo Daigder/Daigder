@@ -37,4 +37,5 @@
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
 
-![snake gif](https://github.com/yDaigder/Daigder/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/Daigder/Daigder/blob/output/github-contribution-grid-snake.svg) 
+[![readme](https:/github-readme-stats.vercel.app/api/pin/?username=Daigder&repo=Daigder&theme=react)](https:/Lgithub.com/Daigder/Daigder)
