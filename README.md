@@ -25,7 +25,6 @@
   <a href="https://www.instagram.com/murillodaigder/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="mailto:murillo-d@live.com"><img src="https://img.shields.io/badge/-outlook-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
    
   </div>
 
@@ -37,3 +36,5 @@
 
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=footer"/>
+
+![snake gif](https://github.com/yDaigder/Daigder/blob/output/github-contribution-grid-snake.gif)
